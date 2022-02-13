@@ -26,7 +26,7 @@ llvmlite==0.31.0
 matplotlib==3.2.1
 more-itertools==8.2.0
 networkx==2.4
-nltk==3.4.5
+nltk==3.6.6
 numba==0.48.0
 numpy==1.18.2
 packaging==20.3
